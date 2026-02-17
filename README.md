@@ -5,6 +5,15 @@ This project analyzes e-commerce sales performance using SQL and data modeling t
 
 ---
 
+## 📂 Project Structure
+
+- 📁 data → Raw and cleaned datasets  
+- 📁 sql → Data modeling & KPI queries  
+- 📁 dashboard → Power BI assets & screenshots  
+
+
+---
+
 ## 🎯 Business Objectives
 - Analyze total revenue and sales trends
 - Identify top-performing products
